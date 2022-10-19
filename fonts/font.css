@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Avenir LT Std';
+    src: url('AvenirLTStd-Black.eot');
+    src: url('AvenirLTStd-Black.eot?#iefix') format('embedded-opentype'),
+        url('AvenirLTStd-Black.woff2') format('woff2'),
+        url('AvenirLTStd-Black.woff') format('woff'),
+        url('AvenirLTStd-Black.ttf') format('truetype'),
+        url('AvenirLTStd-Black.svg#AvenirLTStd-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
